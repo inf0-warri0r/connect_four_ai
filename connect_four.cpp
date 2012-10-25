@@ -1,6 +1,6 @@
 /*
 *Author :Tharindra Galahena
-*Project:Connect - state A.I. Agent
+*Project:Connect - Four A.I. Agent
 *Date   :25/10/2012
 *License:
 * 
